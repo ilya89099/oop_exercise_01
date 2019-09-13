@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLion WS/ooplabs/cmake-build-debug/CMakeFiles/ooplabs.dir
+C:/Users/Lenovo/CLion WS/ooplabs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLion WS/ooplabs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
