@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Lenovo/CLion WS/ooplabs/lab_class.cpp" "C:/Users/Lenovo/CLion WS/ooplabs/cmake-build-debug/CMakeFiles/ooplabs.dir/lab_class.cpp.obj"
-  "C:/Users/Lenovo/CLion WS/ooplabs/main.cpp" "C:/Users/Lenovo/CLion WS/ooplabs/cmake-build-debug/CMakeFiles/ooplabs.dir/main.cpp.obj"
+  "C:/Users/Lenovo/CLion WS/ooplab1/bottle.cpp" "C:/Users/Lenovo/CLion WS/ooplab1/cmake-build-debug/CMakeFiles/ooplabs.dir/bottle.cpp.obj"
+  "C:/Users/Lenovo/CLion WS/ooplab1/main.cpp" "C:/Users/Lenovo/CLion WS/ooplab1/cmake-build-debug/CMakeFiles/ooplabs.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

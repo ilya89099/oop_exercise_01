@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ooplabs.dir/main.cpp.obj"
-  "CMakeFiles/ooplabs.dir/lab_class.cpp.obj"
+  "CMakeFiles/ooplabs.dir/bottle.cpp.obj"
   "ooplabs.pdb"
   "ooplabs.exe"
   "ooplabs.exe.manifest"

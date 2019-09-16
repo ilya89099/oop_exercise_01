@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="ooplabs" targetName="ooplabs" />
+      <config projectName="ooplab1" targetName="ooplabs" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -23,7 +23,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ooplab1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QmI5lHTyk3Hyit01ls4zlvhvvb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,7 +46,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ooplabs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ooplabs" TARGET_NAME="ooplabs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ooplabs" RUN_TARGET_NAME="ooplabs">
+    <configuration name="ooplabs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ooplab1" TARGET_NAME="ooplabs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ooplab1" RUN_TARGET_NAME="ooplabs">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -63,6 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1568369163873</updated>
       <workItem from="1568369167010" duration="1633000" />
+      <workItem from="1568371125024" duration="4403000" />
+      <workItem from="1568388431169" duration="180000" />
     </task>
     <servers />
   </component>
@@ -74,7 +76,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

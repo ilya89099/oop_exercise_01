@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Lenovo\CLion WS\ooplabs"
+CMAKE_SOURCE_DIR = "C:\Users\Lenovo\CLion WS\ooplab1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ooplabs.dir/depend.make
@@ -58,45 +58,45 @@ include CMakeFiles/ooplabs.dir/flags.make
 
 CMakeFiles/ooplabs.dir/main.cpp.obj: CMakeFiles/ooplabs.dir/flags.make
 CMakeFiles/ooplabs.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ooplabs.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ooplabs.dir\main.cpp.obj -c "C:\Users\Lenovo\CLion WS\ooplabs\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ooplabs.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ooplabs.dir\main.cpp.obj -c "C:\Users\Lenovo\CLion WS\ooplab1\main.cpp"
 
 CMakeFiles/ooplabs.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ooplabs.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Lenovo\CLion WS\ooplabs\main.cpp" > CMakeFiles\ooplabs.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Lenovo\CLion WS\ooplab1\main.cpp" > CMakeFiles\ooplabs.dir\main.cpp.i
 
 CMakeFiles/ooplabs.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ooplabs.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Lenovo\CLion WS\ooplabs\main.cpp" -o CMakeFiles\ooplabs.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Lenovo\CLion WS\ooplab1\main.cpp" -o CMakeFiles\ooplabs.dir\main.cpp.s
 
-CMakeFiles/ooplabs.dir/lab_class.cpp.obj: CMakeFiles/ooplabs.dir/flags.make
-CMakeFiles/ooplabs.dir/lab_class.cpp.obj: ../lab_class.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ooplabs.dir/lab_class.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ooplabs.dir\lab_class.cpp.obj -c "C:\Users\Lenovo\CLion WS\ooplabs\lab_class.cpp"
+CMakeFiles/ooplabs.dir/bottle.cpp.obj: CMakeFiles/ooplabs.dir/flags.make
+CMakeFiles/ooplabs.dir/bottle.cpp.obj: ../bottle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ooplabs.dir/bottle.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ooplabs.dir\bottle.cpp.obj -c "C:\Users\Lenovo\CLion WS\ooplab1\bottle.cpp"
 
-CMakeFiles/ooplabs.dir/lab_class.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ooplabs.dir/lab_class.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Lenovo\CLion WS\ooplabs\lab_class.cpp" > CMakeFiles\ooplabs.dir\lab_class.cpp.i
+CMakeFiles/ooplabs.dir/bottle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ooplabs.dir/bottle.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Lenovo\CLion WS\ooplab1\bottle.cpp" > CMakeFiles\ooplabs.dir\bottle.cpp.i
 
-CMakeFiles/ooplabs.dir/lab_class.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ooplabs.dir/lab_class.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Lenovo\CLion WS\ooplabs\lab_class.cpp" -o CMakeFiles\ooplabs.dir\lab_class.cpp.s
+CMakeFiles/ooplabs.dir/bottle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ooplabs.dir/bottle.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Lenovo\CLion WS\ooplab1\bottle.cpp" -o CMakeFiles\ooplabs.dir\bottle.cpp.s
 
 # Object files for target ooplabs
 ooplabs_OBJECTS = \
 "CMakeFiles/ooplabs.dir/main.cpp.obj" \
-"CMakeFiles/ooplabs.dir/lab_class.cpp.obj"
+"CMakeFiles/ooplabs.dir/bottle.cpp.obj"
 
 # External object files for target ooplabs
 ooplabs_EXTERNAL_OBJECTS =
 
 ooplabs.exe: CMakeFiles/ooplabs.dir/main.cpp.obj
-ooplabs.exe: CMakeFiles/ooplabs.dir/lab_class.cpp.obj
+ooplabs.exe: CMakeFiles/ooplabs.dir/bottle.cpp.obj
 ooplabs.exe: CMakeFiles/ooplabs.dir/build.make
 ooplabs.exe: CMakeFiles/ooplabs.dir/linklibs.rsp
 ooplabs.exe: CMakeFiles/ooplabs.dir/objects1.rsp
 ooplabs.exe: CMakeFiles/ooplabs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ooplabs.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ooplabs.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ooplabs.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/ooplabs.dir/clean:
 .PHONY : CMakeFiles/ooplabs.dir/clean
 
 CMakeFiles/ooplabs.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Lenovo\CLion WS\ooplabs" "C:\Users\Lenovo\CLion WS\ooplabs" "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug" "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug" "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug\CMakeFiles\ooplabs.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Lenovo\CLion WS\ooplab1" "C:\Users\Lenovo\CLion WS\ooplab1" "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug" "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug" "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug\CMakeFiles\ooplabs.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ooplabs.dir/depend
 

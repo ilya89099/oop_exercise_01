@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Lenovo\CLion WS\ooplabs"
+CMAKE_SOURCE_DIR = "C:\Users\Lenovo\CLion WS\ooplab1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug\CMakeFiles" "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug\CMakeFiles" "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Lenovo\CLion WS\ooplabs\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Lenovo\CLion WS\ooplab1\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -122,32 +122,32 @@ ooplabs/fast:
 	$(MAKE) -f CMakeFiles\ooplabs.dir\build.make CMakeFiles/ooplabs.dir/build
 .PHONY : ooplabs/fast
 
-lab_class.obj: lab_class.cpp.obj
+bottle.obj: bottle.cpp.obj
 
-.PHONY : lab_class.obj
+.PHONY : bottle.obj
 
 # target to build an object file
-lab_class.cpp.obj:
-	$(MAKE) -f CMakeFiles\ooplabs.dir\build.make CMakeFiles/ooplabs.dir/lab_class.cpp.obj
-.PHONY : lab_class.cpp.obj
+bottle.cpp.obj:
+	$(MAKE) -f CMakeFiles\ooplabs.dir\build.make CMakeFiles/ooplabs.dir/bottle.cpp.obj
+.PHONY : bottle.cpp.obj
 
-lab_class.i: lab_class.cpp.i
+bottle.i: bottle.cpp.i
 
-.PHONY : lab_class.i
+.PHONY : bottle.i
 
 # target to preprocess a source file
-lab_class.cpp.i:
-	$(MAKE) -f CMakeFiles\ooplabs.dir\build.make CMakeFiles/ooplabs.dir/lab_class.cpp.i
-.PHONY : lab_class.cpp.i
+bottle.cpp.i:
+	$(MAKE) -f CMakeFiles\ooplabs.dir\build.make CMakeFiles/ooplabs.dir/bottle.cpp.i
+.PHONY : bottle.cpp.i
 
-lab_class.s: lab_class.cpp.s
+bottle.s: bottle.cpp.s
 
-.PHONY : lab_class.s
+.PHONY : bottle.s
 
 # target to generate assembly for a file
-lab_class.cpp.s:
-	$(MAKE) -f CMakeFiles\ooplabs.dir\build.make CMakeFiles/ooplabs.dir/lab_class.cpp.s
-.PHONY : lab_class.cpp.s
+bottle.cpp.s:
+	$(MAKE) -f CMakeFiles\ooplabs.dir\build.make CMakeFiles/ooplabs.dir/bottle.cpp.s
+.PHONY : bottle.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -185,9 +185,9 @@ help:
 	@echo ... ooplabs
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... lab_class.obj
-	@echo ... lab_class.i
-	@echo ... lab_class.s
+	@echo ... bottle.obj
+	@echo ... bottle.i
+	@echo ... bottle.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo/CLion WS/ooplab1/bottle.cpp
+bottle.h
+C:/Users/Lenovo/CLion WS/ooplab1/bottle.h
+
+C:/Users/Lenovo/CLion WS/ooplab1/bottle.h
+
+C:/Users/Lenovo/CLion WS/ooplab1/main.cpp
+iostream
+-
+bottle.h
+C:/Users/Lenovo/CLion WS/ooplab1/bottle.h
+
