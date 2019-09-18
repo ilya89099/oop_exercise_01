@@ -3,6 +3,13 @@
 Bottle::Bottle(double volume, double fill_percent)
 : volume_(volume), fill_percent_(fill_percent) {}
 
+double Bottle::GetVolume() const {
+    return volume_;
+}
+double Bottle::GetFillPercent() const {
+    return fill_percent_;
+}
+
 double Bottle::GetFilledVolume() const {
     return volume_ * fill_percent_;
 }

@@ -5,6 +5,9 @@ public:
 
     Bottle(double volume, double fill_percent);
 
+    double GetVolume() const;
+    double GetFillPercent() const;
+
     double GetFilledVolume() const;
 
     double Sum(const Bottle& other) const;
