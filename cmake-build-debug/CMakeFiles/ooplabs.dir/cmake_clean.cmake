@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ooplabs.dir/main.cpp.obj"
-  "CMakeFiles/ooplabs.dir/bottle.cpp.obj"
+  "CMakeFiles/ooplabs.dir/main.cpp.o"
+  "CMakeFiles/ooplabs.dir/bottle.cpp.o"
   "ooplabs.pdb"
-  "ooplabs.exe"
-  "ooplabs.exe.manifest"
-  "libooplabs.dll.a"
+  "ooplabs"
 )
 
 # Per-language clean rules from dependency scanning.
