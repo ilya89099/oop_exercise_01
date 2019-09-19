@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named ooplabs
+# Target rules for targets named oop_exercise_01
 
 # Build rule for target.
-ooplabs: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ooplabs
-.PHONY : ooplabs
+oop_exercise_01: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 oop_exercise_01
+.PHONY : oop_exercise_01
 
 # fast build rule for target.
-ooplabs/fast:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/build
-.PHONY : ooplabs/fast
+oop_exercise_01/fast:
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/build
+.PHONY : oop_exercise_01/fast
 
 bottle.o: bottle.cpp.o
 
@@ -129,7 +129,7 @@ bottle.o: bottle.cpp.o
 
 # target to build an object file
 bottle.cpp.o:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/bottle.cpp.o
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/bottle.cpp.o
 .PHONY : bottle.cpp.o
 
 bottle.i: bottle.cpp.i
@@ -138,7 +138,7 @@ bottle.i: bottle.cpp.i
 
 # target to preprocess a source file
 bottle.cpp.i:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/bottle.cpp.i
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/bottle.cpp.i
 .PHONY : bottle.cpp.i
 
 bottle.s: bottle.cpp.s
@@ -147,7 +147,7 @@ bottle.s: bottle.cpp.s
 
 # target to generate assembly for a file
 bottle.cpp.s:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/bottle.cpp.s
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/bottle.cpp.s
 .PHONY : bottle.cpp.s
 
 main.o: main.cpp.o
@@ -156,7 +156,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -165,7 +165,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -174,7 +174,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -184,7 +184,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... ooplabs"
+	@echo "... oop_exercise_01"
 	@echo "... edit_cache"
 	@echo "... bottle.o"
 	@echo "... bottle.i"

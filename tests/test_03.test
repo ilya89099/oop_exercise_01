@@ -1,0 +1,9 @@
+create 20 0.5
+create 10 0.5
+create 7 0.2
+operation + 1 2
+operation + 2 1
+operation - 1 2
+operation - 2 1
+operation - 3 2
+operation - 2 3

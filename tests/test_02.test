@@ -1,0 +1,14 @@
+create 20 0.5
+create 10 0.5
+create 20 0.25
+compare = 1 2
+compare = 2 1
+compare = 3 2
+compare = 2 3
+compare > 1 2
+compare > 2 1
+compare < 1 2
+compare < 2 1
+compare a 2 1
+compare >= 2 1
+

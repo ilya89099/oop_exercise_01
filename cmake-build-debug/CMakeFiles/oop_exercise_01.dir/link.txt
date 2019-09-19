@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -g   CMakeFiles/oop_exercise_01.dir/main.cpp.o CMakeFiles/oop_exercise_01.dir/bottle.cpp.o  -o oop_exercise_01 

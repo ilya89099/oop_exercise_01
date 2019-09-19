@@ -65,39 +65,39 @@ CMAKE_SOURCE_DIR = /home/ilya/CLionProjects/oop_exercise_01
 CMAKE_BINARY_DIR = /home/ilya/CLionProjects/oop_exercise_01/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/ooplabs.dir
+# Target rules for target CMakeFiles/oop_exercise_01.dir
 
 # All Build rule for target.
-CMakeFiles/ooplabs.dir/all:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/depend
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ilya/CLionProjects/oop_exercise_01/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target ooplabs"
-.PHONY : CMakeFiles/ooplabs.dir/all
+CMakeFiles/oop_exercise_01.dir/all:
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/depend
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ilya/CLionProjects/oop_exercise_01/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target oop_exercise_01"
+.PHONY : CMakeFiles/oop_exercise_01.dir/all
 
 # Include target in all.
-all: CMakeFiles/ooplabs.dir/all
+all: CMakeFiles/oop_exercise_01.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/ooplabs.dir/rule: cmake_check_build_system
+CMakeFiles/oop_exercise_01.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ilya/CLionProjects/oop_exercise_01/cmake-build-debug/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ooplabs.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/oop_exercise_01.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ilya/CLionProjects/oop_exercise_01/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/ooplabs.dir/rule
+.PHONY : CMakeFiles/oop_exercise_01.dir/rule
 
 # Convenience name for target.
-ooplabs: CMakeFiles/ooplabs.dir/rule
+oop_exercise_01: CMakeFiles/oop_exercise_01.dir/rule
 
-.PHONY : ooplabs
-
-# clean rule for target.
-CMakeFiles/ooplabs.dir/clean:
-	$(MAKE) -f CMakeFiles/ooplabs.dir/build.make CMakeFiles/ooplabs.dir/clean
-.PHONY : CMakeFiles/ooplabs.dir/clean
+.PHONY : oop_exercise_01
 
 # clean rule for target.
-clean: CMakeFiles/ooplabs.dir/clean
+CMakeFiles/oop_exercise_01.dir/clean:
+	$(MAKE) -f CMakeFiles/oop_exercise_01.dir/build.make CMakeFiles/oop_exercise_01.dir/clean
+.PHONY : CMakeFiles/oop_exercise_01.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/oop_exercise_01.dir/clean
 
 .PHONY : clean
 
