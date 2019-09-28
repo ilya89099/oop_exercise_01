@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2fbfdfcf-e165-4ee8-b225-f3772c2b96d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.report.odt#" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,8 @@
       <workItem from="1568664828704" duration="3727000" />
       <workItem from="1568879768422" duration="3342000" />
       <workItem from="1569320688863" duration="820000" />
-      <workItem from="1569344785101" duration="603000" />
+      <workItem from="1569344785101" duration="1387000" />
+      <workItem from="1569417703484" duration="21000" />
     </task>
     <servers />
   </component>
